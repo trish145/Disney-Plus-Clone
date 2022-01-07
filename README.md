@@ -38,10 +38,10 @@ npm install
 - start the server
 -  npm start
   ```
+  
+ 
 
 
-  ```bash![Uploading React App - Google Chrome 07-01-2022 22_33_17.png…]()
-![React App - Google Chrome 07-01-2022 22_33_25](https://user-images.githubusercontent.com/87197972/148579695-be635390-a9d8-4058-a8ee-7725a134de76.png)
-
-
-
+![React App - Google Chrome 07-01-2022 22_33_01](https://user-images.githubusercontent.com/87197972/148580308-b11bedf6-8899-4ee8-a8a5-330991d81a78.png)
+![React App - Google Chrome 07-01-2022 22_33_17](https://user-images.githubusercontent.com/87197972/148580334-28b8315c-3865-4d1e-8602-91ccc28d9566.png)
+![React App - Google Chrome 07-01-2022 22_33_25](https://user-images.githubusercontent.com/87197972/148580339-59f63840-bfd3-4b13-892b-5db989fdb554.png)

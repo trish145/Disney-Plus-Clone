@@ -36,9 +36,12 @@ npm install
 - Update firebase.js and .env with new keys
 
 - start the server
+-  npm start
+  ```
+
+
   ```bash![Uploading React App - Google Chrome 07-01-2022 22_33_17.png…]()
 ![React App - Google Chrome 07-01-2022 22_33_25](https://user-images.githubusercontent.com/87197972/148579695-be635390-a9d8-4058-a8ee-7725a134de76.png)
 
-  npm start
-  ```
-![React App - Google Chrome 07-01-2022 22_33_01](https://user-images.githubusercontent.com/87197972/148579687-0016942c-7682-4d4c-817b-31a8f0caad58.png)
+
+
